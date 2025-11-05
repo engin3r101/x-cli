@@ -5,4 +5,4 @@ Steps to run :
 2. Create a project in developer.x.com
 3. Get your required keys and tokens from the project you just created.
 4. Create an env file that has these variables stored.
-5. And simply run python cli.py "Hello X(Twitter) from my 127.0.0.1 =) ".
+5. And simply run python cli.py "Hello X(Twitter) from 127.0.0.1 =) ".
