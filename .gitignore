@@ -1,4 +1,5 @@
 .env
+tweets.csv
 __pycache__/
 venv/
 env/# Byte-compiled / optimized / DLL files
